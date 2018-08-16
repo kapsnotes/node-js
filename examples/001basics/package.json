@@ -1,0 +1,14 @@
+{
+  "name": "001basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CommandLineArguments.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kapil Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  }
+}
